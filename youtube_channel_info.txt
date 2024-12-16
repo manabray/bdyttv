@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Desh TV Live | Bangladesh | https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/220px-DeshTV2022Logo.svg.png |
-https://www.youtube.com/watch?v=iZKf27HQvKE
+https://www.youtube.com/live/KvHSWa5gaXY?si=yZnN3rC13YHwMhFt
 
 ATN News Live | Bangladesh | https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF |
 https://www.youtube.com/watch?v=c8vjztz-0LI
